@@ -1,4 +1,9 @@
 ### Welcome to my profile 👋
+- 🔭 I’m currently studying Computer Science at **Università la Sapienza**
+- 🌱 I’m currently learning about **AI, Machine Learning and Computer Vision**
+- 📫 How to reach me: [github](https://github.com/susannacifani), [linkedin](https://www.linkedin.com/in/susanna-cifani-67bb9a291)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susannacifani&layout=compact)
 
 <!--
