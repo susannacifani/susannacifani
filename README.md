@@ -4,7 +4,7 @@
 - 📫 How to reach me: [github](https://github.com/susannacifani), [linkedin](https://www.linkedin.com/in/susanna-cifani-67bb9a291)
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susannacifani&layout=compact)
 
 <!--
 **susannacifani/susannacifani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
